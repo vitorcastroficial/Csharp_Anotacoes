@@ -1,9 +1,10 @@
 /*
-Métodos que adicionam espaços em branco para fins de formatação (PadLeft(), PadRight())
-Métodos que comparam duas cadeias de caracteres ou facilitam a comparação (Trim(), TrimStart(), TrimEnd(), GetHashcode(), a propriedade Length)
-Métodos que ajudam a determinar o que há dentro de uma cadeia de caracteres ou até mesmo recuperar apenas uma parte da cadeia de caracteres (Contains(), StartsWith(), EndsWith(), Substring())
-Métodos que alteram o conteúdo da cadeia de caracteres substituindo, inserindo ou removendo partes (Replace(), Insert(), Remove())
-Métodos que transformam uma cadeia de caracteres em uma matriz de cadeias de caracteres ou de caracteres (Split(), ToCharArray())
+Métodos:
+Adicionam espaços em branco para fins de formatação (PadLeft(), PadRight())
+Comparam duas cadeias de caracteres ou facilitam a comparação (Trim(), TrimStart(), TrimEnd(), GetHashcode(), a propriedade Length)
+Ajudam a determinar o que há dentro de uma cadeia de caracteres ou até mesmo recuperar apenas uma parte da cadeia de caracteres (Contains(), StartsWith(), EndsWith(), Substring())
+Alteram o conteúdo da cadeia de caracteres substituindo, inserindo ou removendo partes (Replace(), Insert(), Remove())
+Transformam uma cadeia de caracteres em uma matriz de cadeias de caracteres ou de caracteres (Split(), ToCharArray())
 */
 
 // Segue variáveis e exemplos de uso
