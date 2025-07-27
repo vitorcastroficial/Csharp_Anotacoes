@@ -7,7 +7,7 @@ Alteram o conteúdo da cadeia de caracteres substituindo, inserindo ou removendo
 Transformam uma cadeia de caracteres em uma matriz de cadeias de caracteres ou de caracteres (Split(), ToCharArray())
 */
 
-// Segue variáveis e exemplos de uso
+// Variáveis para exemplos de uso
 string first = "Hello";
 string second = "World";
 
